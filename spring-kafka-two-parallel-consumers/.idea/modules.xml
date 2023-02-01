@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/first-consumer.main.iml" filepath="$PROJECT_DIR$/.idea/modules/first-consumer.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/producer.main.iml" filepath="$PROJECT_DIR$/.idea/modules/producer.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ru.romanov.consumer.first-consumer.main.iml" filepath="$PROJECT_DIR$/.idea/modules/ru.romanov.consumer.first-consumer.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ru.romanov.consumer.second-consumer.main.iml" filepath="$PROJECT_DIR$/.idea/modules/ru.romanov.consumer.second-consumer.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ru.romanov.producer.producer.main.iml" filepath="$PROJECT_DIR$/.idea/modules/ru.romanov.producer.producer.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/second-consumer.main.iml" filepath="$PROJECT_DIR$/.idea/modules/second-consumer.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/spring-kafka-two-parallel-consumers.iml" filepath="$PROJECT_DIR$/.idea/spring-kafka-two-parallel-consumers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-kafka-two-parallel-consumers.first-consumer.main.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-kafka-two-parallel-consumers.first-consumer.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-kafka-two-parallel-consumers.producer.main.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-kafka-two-parallel-consumers.producer.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-kafka-two-parallel-consumers.second-consumer.main.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-kafka-two-parallel-consumers.second-consumer.main.iml" />
+    </modules>
+  </component>
+</project>
